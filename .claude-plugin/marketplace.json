@@ -5,13 +5,13 @@
   },
   "plugins": [
     {
-      "name": "flutter-init",
+      "name": "ba-cs-generator",
       "source": {
         "source": "github",
-        "repo": "bear2u/claude-plugins",
-        "path": "skills/flutter-init"
+        "repo": "sangwookpark/claude-plugins",
+        "path": "skills/ba-cs-generator"
       },
-      "description": "Use when user wants to create a new Flutter project (Todo/Habit/Note/Expense/Custom domain) with Clean Architecture, Riverpod 3.0, Drift, and modern Flutter stack"
+      "description": "Use when user wants to generate answer to ba cs"
     }
   ]
 }
