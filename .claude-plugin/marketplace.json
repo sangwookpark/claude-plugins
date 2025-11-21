@@ -1,0 +1,17 @@
+{
+  "name": "sangwook-park-marketplace",
+  "owner": {
+    "name": "Sangwook Park"
+  },
+  "plugins": [
+    {
+      "name": "flutter-init",
+      "source": {
+        "source": "github",
+        "repo": "bear2u/claude-plugins",
+        "path": "skills/flutter-init"
+      },
+      "description": "Use when user wants to create a new Flutter project (Todo/Habit/Note/Expense/Custom domain) with Clean Architecture, Riverpod 3.0, Drift, and modern Flutter stack"
+    }
+  ]
+}
