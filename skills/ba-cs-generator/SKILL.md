@@ -1,13 +1,13 @@
 ---
-name: ba-cs-generator
-description: 비즈어드바이저 고객의 문의에 답변을 제공합니다.
+name: cs-generator
+description: 고객의 문의에 답변을 제공합니다.
 version: 0.0.1
 ---
 
-# Biz Advisor CS helper
+# CS helper
 
 ## Overview
-비즈어드바이저(Biz Advisor) 서비스와 관련한 고객의 문의에 답변합니다.
+서비스와 관련한 고객의 문의에 답변합니다.
 
 ## Instructions
 
